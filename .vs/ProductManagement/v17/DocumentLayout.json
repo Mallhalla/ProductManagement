@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\productmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\productmanagement\\controllers\\productmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\productmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|c:\\users\\kaan\\source\\repos\\ecommerceadvancedsoftware\\productmanagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\productmanagement\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{631FE632-1716-46CA-ACE1-C927EBA899A8}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeToolTip": "ProductManagement\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:11:58.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeDocumentMoniker": "ProductManagement\\ProductManagement.csproj",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeToolTip": "ProductManagement\\ProductManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T20:20:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T20:19:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\Controllers\\ProductManagementController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\ProductManagementController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\Controllers\\ProductManagementController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\ProductManagementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:12:08.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\eCommerceAdvancedSoftware\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeToolTip": "ProductManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T20:30:16.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
